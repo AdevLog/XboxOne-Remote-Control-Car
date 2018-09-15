@@ -19,16 +19,21 @@ Features
 
 Built With
 --------
-* [USB Host Shield 2.0](https://github.com/felis/USB_Host_Shield_2.0). - Xbox ONE Controller Library
-* [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel). - Adafruit NeoPixel Library
-* [NRF24L01+ Driver](http://tmrh20.github.io/RF24). - nRF24 Library
-* [Tone](https://github.com/bhagman/Tone). - Tone examples
+* [USB Host Shield 2.0](https://github.com/felis/USB_Host_Shield_2.0) - Xbox ONE Controller Library
+* [Adafruit NeoPixel](https://github.com/adafruit/Adafruit_NeoPixel) - Adafruit NeoPixel Library
+* [NRF24L01+ Driver](http://tmrh20.github.io/RF24) - nRF24 Library
+* [Tone](https://github.com/bhagman/Tone) - Tone examples
 
 Project Demo
 -----------------------
-* [Car demo]
+* [Car demo 1](https://youtu.be/gRs7gOOcnWY) - obstacle avoidance + LED effects + RTTTL
+* [Car demo 2](https://youtu.be/DUEcWcmjPmg) - collision avoidance
 
 Keep Going On
 -----------------------
 * Arduino Autonomous Car.
 * Ready for sound-to-light.
+
+Inspiration
+-----------------------
+* [WS2812FX](https://github.com/kitesurfer1404/WS2812FX) - LED effects
