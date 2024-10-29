@@ -1,4 +1,4 @@
-# XboxOne Remote Control Car
+# XboxOne Remote-Control RC Car
 __________
 
 Summary
@@ -10,7 +10,8 @@ This project is using XboxOne controller to control a 2.4G wifi RC car.
 
 Features
 --------
-* 2 HC-SR04 models for Obstacle Avoidance.
+* Uses a USB Host Shield and nRF24L01 modules for device communication.
+* Uses two HC-SR04 modules for Obstacle Avoidance.
 * 2 different Car Modes(include manual mode and auto mode).
 * 8 different LED effects.
 * 80 different RTTTL Horns(include 1 in manual mode and 79 in auto mode).
