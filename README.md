@@ -1,4 +1,4 @@
-# XboxOne Remote-Control RC Car
+# XboxOne Remote-Controlled RC Car
 __________
 
 Summary
